@@ -3,3 +3,4 @@ pydantic
 imagehash
 Pillow
 requests
+httpx
